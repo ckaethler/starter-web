@@ -11,3 +11,6 @@ As stated above, the main purspose is to learn the different git commands.
 
 ## Deployment
 This is a simple web project. Deployment can be on any local computer.
+
+## Copyright
+2020 Copyright Catherine Kaethler
