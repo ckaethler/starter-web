@@ -8,6 +8,7 @@ This is an example to show different parts of the git repository.
 As stated above, the main purspose is to learn the different git commands.
 
 ## How to Contribute
+Please fork this repository and submit pull request for review
 
 ## Deployment
 This is a simple web project. Deployment can be on any local computer.
