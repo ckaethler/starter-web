@@ -14,4 +14,4 @@ Please fork this repository and submit pull request for review
 This is a simple web project. Deployment can be on any local computer.
 
 ## Copyright
-2020 Copyright Catherine Kaethler
+2020 Copyright Catherine Kaethler. All rights reserved
