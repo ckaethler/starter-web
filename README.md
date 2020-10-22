@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a simple website project for learning how to use github commands. Adding a line for rebasing example
+This is a simple website project for learning how to use github commands. Adding a line for rebasing example, then more changes from myfeature branch, too.
 
 ## Introduction
 This is an example to show different parts of the git repository.
